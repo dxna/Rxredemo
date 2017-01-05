@@ -39,6 +39,7 @@ public class MovieListAdapter extends BaseAdapter {
 
     @Override
     public Object getItem(int i) {
+
         return movieEntityList.get(i);
     }
 

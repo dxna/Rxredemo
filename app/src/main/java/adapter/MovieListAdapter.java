@@ -35,6 +35,7 @@ public class MovieListAdapter extends BaseAdapter {
     @Override
     public int getCount() {
         return movieEntityList.size();
+
     }
 
     @Override
